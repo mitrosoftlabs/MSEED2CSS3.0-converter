@@ -20,7 +20,7 @@ Features:
 Version: 2.1
 Author: Enhanced version based on original by D.Gordienko (KNDC)
 Email: mitrosoftlabs@gmail.com
-License: CUSTOM MIT
+License: Creative Commons Attribution-NonCommercial 4.0 International License
 """
 
 import argparse
